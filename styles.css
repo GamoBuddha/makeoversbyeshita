@@ -58,7 +58,7 @@
     top: 0;
     left: 0;
     height: 10%;
-    width: 100%;
+    width: 100vw;
     padding: 20px 100px;
     background: transparent;
     display: flex;
@@ -137,8 +137,6 @@
     font-weight: 200;
     color: #656565;
     text-align: justify;
-    float: right;
-    margin-right: 30%;
   }
 
   #about_container {
