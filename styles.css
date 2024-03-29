@@ -211,22 +211,8 @@
     padding: 10px
   }
 
-  #section_1 {
-    min-height: 50vh;
-  }
-
-  #section_4 {
-    min-height: 50vh;
-  }
-
   body {
-    width: 100%;
-  }
-
-  #logo-image-s-1 {
-    align-items: center;
-    width: 120%;
-    height: 120%;
+    width: 160%;
   }
 
   #section_5 {
