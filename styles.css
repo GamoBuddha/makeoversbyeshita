@@ -203,12 +203,3 @@
   #copyright {
     margin: 40px 0;
   }
-
- @media only screen and (max-width: 1200px) {
-    #header a {
-      font-size: 1px;
-      padding: 0;
-      margin-left: 0;
-    }
-  }
-
