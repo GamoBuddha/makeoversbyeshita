@@ -204,31 +204,9 @@
     margin: 40px 0;
   }
 
-  @media only screen and (max-width: 1200px) {
-    #header {
-      padding: 10px
-    }
-    
-    #section_2 {
-      padding: 5% 10%;
-    }
-
-    #section_3 {
-      padding: 10% 7%;
-    }
-
-    #section_5 {
-      padding: 5%;
-    }
-
-    #about_image {
-      width: 300px;
-      height: 400px;
-    }
-
-    #about_paragraph {
-      font-size: 11px;
-      margin-right: 15%;
-    }
-
+  @media only screen and (max-width: 1100px) {
+  #contact_appointment {
+    font-size: 14px;
+    line-height: auto;
+  }
   }
