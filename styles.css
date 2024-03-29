@@ -214,13 +214,11 @@
   body {
     width: 160%;
   }
-  
-  #section_2 {
-    padding: 5% 10%;
-  }
 
-  #section_3 {
-    padding: 10% 7%;
+  #logo-image-s-1 {
+    align-items: center;
+    width: 120%;
+    height: 120%;
   }
 
   #section_5 {
