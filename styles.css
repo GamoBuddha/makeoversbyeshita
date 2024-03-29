@@ -211,6 +211,14 @@
     padding: 10px
   }
 
+  #section_1 {
+    min-height: 50vh;
+  }
+
+  #section_4 {
+    min-height: 50vh;
+  }
+
   body {
     width: 100%;
   }
