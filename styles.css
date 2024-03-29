@@ -204,7 +204,7 @@
     margin: 40px 0;
   }
 
-  @media only screen and (max-width: 1080px) {
+  @media only screen and (max-width: 1200px) {
     #logo-image-s-1 {
       width: 50px;
       height: 50px;
