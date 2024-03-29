@@ -59,6 +59,7 @@
     left: 0;
     height: 10%;
     width: 100%;
+    padding: 20px 100px;
     background: transparent;
     display: flex;
     justify-content: space-between;
@@ -69,9 +70,9 @@
   #header a {
     position: relative;
     color: #fff;
-    font-weight: 800;
+    font-weight: 1000;
     text-decoration: none;
-    margin-left: 12px;
+    margin-left: 30px;
     transition: 0.3s;
   }
 
@@ -204,5 +205,11 @@
   }
 
   @media only screen and (max-width: 1080px) {
-    
+    #header {
+      padding: 0;
+    }
+
+    #header a {
+      margin-left: 12px;
+    }
   }
